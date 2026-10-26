@@ -6,6 +6,10 @@ AI Code Reviewer is a Python application that uses Google's Gemini API to analyz
 
 The goal of this project is to help developers identify potential issues, improve code quality, and write more maintainable Python applications.
 
+## Application Preview
+
+![AI Code Reviewer GUI Screenshot](screenshot.png)
+
 ## Features
 
 - **AI-Powered Code Review:** Analyze Python source code using Google Gemini.
